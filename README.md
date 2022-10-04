@@ -1,4 +1,4 @@
-Tugas Kelompok 6 PBO
+## Tugas Kelompok 6 PBO
 Sistem Informasi Penjualan Alat Tulis
 
 
@@ -10,6 +10,7 @@ Nama Anggota :
 Tommy’s Stationery Store
 Seorang customer ingin membuat sistem informasi toko alat tulis. Toko tersebut menjual berbagai alat tulis seperti pulpen, pensil, penggaris, kertas dan buku tulis. Masing-masing produk memiliki harga tersendiri. Buatlah sistemnya sesuai informasi tersebut.
 
+NB : Kode program dapat dilihat di src/tugaskelompok6pbo
 
 
 
