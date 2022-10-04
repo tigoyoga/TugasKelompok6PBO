@@ -36,14 +36,3 @@ public class TokoAlatTulisApp {
     
 }
 
-// Barang -> Pensil dan Bolpoin
-
-/*
-- Casting/Conversion	: biaya dimasukkan dalam int --> konversi ke double
-- Constructor	: Method Pensil, Bolpoin
-- Overloading	: cetakBelanja(jenis produk) untuk satu barang, cetakBelanja(jenis produk, jumlah), cetakBelanja(jenis produk, diskon)
-- Overriding	: cetakInfo() 
-- Encapsulation	: private int biaya, public getBiaya(), public setBiaya(kunci) private
-- Inheritance	: alat tulis → child class :pulpen, pensil, penggaris, kertas dan buku tulis
-- Polymorphism	: alat tulis namaVariabel, melakukan aksi cetak sesuatu (cek method overriding)
-*/
